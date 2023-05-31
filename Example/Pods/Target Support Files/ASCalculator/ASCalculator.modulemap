@@ -1,0 +1,6 @@
+framework module ASCalculator {
+  umbrella header "ASCalculator-umbrella.h"
+
+  export *
+  module * { export * }
+}

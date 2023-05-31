@@ -1,0 +1,6 @@
+framework module Pods_ASCalculator_Example {
+  umbrella header "Pods-ASCalculator_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

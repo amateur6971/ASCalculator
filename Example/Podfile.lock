@@ -1,0 +1,16 @@
+PODS:
+  - ASCalculator (0.1.0)
+
+DEPENDENCIES:
+  - ASCalculator (from `../`)
+
+EXTERNAL SOURCES:
+  ASCalculator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ASCalculator: 586756279ad2633d347c1efc7f8b6361034936a6
+
+PODFILE CHECKSUM: 11cf2cc505a6396b2877ab03d84344a419081d2a
+
+COCOAPODS: 1.12.1

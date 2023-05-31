@@ -1,0 +1,22 @@
+{
+  "name": "ASCalculator",
+  "version": "0.1.0",
+  "summary": "A short description of ASCalculator.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/amateur6971/ASCalculator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "amateur6971": "office6971aks@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/amateur6971/ASCalculator.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ASCalculator/Classes/**/*"
+}
