@@ -3,7 +3,7 @@ use_frameworks!
 platform :ios, '10.0'
 
 target 'ASCalculator_Example' do
-  pod 'ASCalculator', :path => '../'
+  pod 'ASCalculator', :path => 'https://github.com/amateur6971/ASCalculator/'
 
   target 'ASCalculator_Tests' do
     inherit! :search_paths
